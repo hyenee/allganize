@@ -1,0 +1,15 @@
+<PAD>	0
+weather.general	1
+weather.dust	2
+weather.humidity	3
+weather.maxtemperature	4
+weather.mintemperature	5
+weather.rain	6
+weather.rainfall	7
+weather.snow	8
+weather.snowfall	9
+weather.sunrise	10
+weather.sunset	11
+weather.temperature	12
+weather.uv	13
+weather.windchill	14

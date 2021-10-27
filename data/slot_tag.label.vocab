@@ -1,0 +1,15 @@
+<PAD>	0
+day	1
+day.a	2
+day.p	3
+location	4
+month.p	5
+ti_offset.after	6
+ti_offset.now	7
+ti_range.now	8
+ti_range.p	9
+time	10
+week.p	11
+weekday	12
+weekend	13
+weekend.p	14
